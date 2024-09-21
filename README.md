@@ -102,5 +102,9 @@ if __name__ == "__main__":
         print("No results found for the query.")
 
 ### Output:
+![Screenshot 2024-09-21 141156](https://github.com/user-attachments/assets/b2419000-3b34-4fcc-9039-947a9fa5a0f5)
 
 ### Result:
+Thus, the implementation of Information Retrieval using Boolean model had been successfully done using
+python
+
